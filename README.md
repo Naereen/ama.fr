@@ -36,4 +36,4 @@ Cuisine. Voyage. Sports. Enseignement. Pokémon. N'importe quoi. :joy:
 ### :scroll: Licence
 Ce (petit) dépôt est publié sous les conditions de la [licence MIT](http://lbesson.mit-license.org/) (fichier [LICENSE.txt](LICENSE.txt), en anglais).
 
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://github.com/Naereen/ama/)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://github.com/Naereen/ama.fr/)
