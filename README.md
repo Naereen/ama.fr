@@ -18,7 +18,7 @@ Cuisine. Voyage. Sports. Enseignement. Pokémon. N'importe quoi. :joy:
  - :mag: Vérifiez que votre question n'a pas déjà été posée.
  - :memo: Préférez un titre et une description rapide.
  - :bug: Les demandes de fonctionnalités additionnelles ou les notifications de bogues devraient être ouvertes sur le traqueur de bogues approprie (i.e., le traqueur de bogue correspondant au projet, sur [Bitbucket](https://bitbucket.org/lbesson/) ou [GitHub](https://github.com/Naereen/)).
- - :signal_strength: Des questions d'aide sur du code devraient être posée sur [Stack Overflow](https://stackoverflow.com/) et d'aide sur des maths sur [Math Exchange](https://math.stackexchange.com/).
+ - :signal_strength: Des demandes d'aide sur du code devraient être posées sur [Stack Overflow](https://stackoverflow.com/) et d'aide sur des maths sur [Math Exchange](https://math.stackexchange.com/).
  - :blush: Soyez gentil(le), civilisé(e) et poli(e) svp ([comme toujours](http://contributor-covenant.org/version/1/4/)).
  - :heart_eyes: Si vous utilisez une *emoji* dans votre question, la réponse devrait arriver plus vite !
 
