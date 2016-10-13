@@ -1,4 +1,3 @@
-
 <h2 align="center">
 :dizzy: Demandez-moi n'importe quoi ! :sparkles:<br><br>
 
@@ -7,7 +6,7 @@
 
 Je reçois parfois des questions par courriel. En la posant ici, tout le monde peut lire la réponse !
 
-[![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/Naereen/ama.fr)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
 
 N'importe quoi veut vraiment dire *n'importe quoi*.
 Des questions personnelles. Argent. Travail. Vie. Code.
@@ -30,10 +29,18 @@ Cuisine. Voyage. Sports. Enseignement. Pokémon. N'importe quoi. :joy:
 
 ### Liens
 
- - [D'autres AMAs.](https://github.com/sindresorhus/amas)
+ - [D'autres AMAs](https://github.com/sindresorhus/amas).
  - [Qu'est-ce qu'une AMA ?](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA)
 
-### :scroll: Licence
+## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/ama.fr.svg)](https://github.com/Naereen/ama.fr/blob/master/LICENSE)
 Ce (petit) dépôt est publié sous les conditions de la [licence MIT](http://lbesson.mit-license.org/) (fichier [LICENSE.txt](LICENSE.txt), en anglais).
+© [Lilian Besson](https://GitHub.com/Naereen), 2016-17.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://github.com/Naereen/ama.fr/)
+[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/Naereen/ama.fr/graphs/commit-activity)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
+[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/ama.fr/README.md?pixel)](https://GitHub.com/Naereen/ama.fr/)
+
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
+
+[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
